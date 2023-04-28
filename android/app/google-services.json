@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "362607609887",
+    "project_id": "karthik-portfolio-5ab28",
+    "storage_bucket": "karthik-portfolio-5ab28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362607609887:android:3fc254deca6c18e0b76d2a",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362607609887-ll8nacdfhnusbohbs9h9s4jno58mahtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXE9djlFavvAfxnOv1u73W-Tqng2PFGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362607609887-ll8nacdfhnusbohbs9h9s4jno58mahtm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362607609887-3210fvtnerl7u3d6pr2d3uh347g8997c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.portfolioProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
